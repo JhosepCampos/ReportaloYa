@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-files-path
+        name="incident_images"
+        path="Pictures" />
+    <cache-path
+        name="incident_cache"
+        path="." />
+    <files-path
+        name="incident_files"
+        path="." />
+    <external-cache-path
+        name="incident_external_cache"
+        path="." />
+</paths>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402140620742",
+    "project_id": "reporteincidenciasurbanas",
+    "storage_bucket": "reporteincidenciasurbanas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402140620742:android:446f4fc62aa631121bf4c7",
+        "android_client_info": {
+          "package_name": "com.cibertec.reporteincidenciasurbanas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ3yG0niOLyVww9bHh_HxHxSV4Yz_L8-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
